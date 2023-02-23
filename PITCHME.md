@@ -14,9 +14,9 @@ _paginate: false
 
 Hosting Marp slide deck on the web
 
-https://github.com/yhatt/marp-cli-example
+https://github.com/mccright/marp-cli-example
 
-<style scoped>a { color: #36c; }</style>
+<style scoped>a { color: #26c; }</style>
 
 <!-- This is presenter note. You can write down notes through HTML comment. -->
 
@@ -61,7 +61,7 @@ https://github.com/yhatt/marp-cli-example
 
 #### Ready to write & host your deck!
 
-[![Deploy to Vercel h:1.5em](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/yhatt/marp-cli-example)
+[![Deploy to Vercel h:1.5em](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/mccright/marp-cli-example)
 
 ---
 
@@ -72,5 +72,5 @@ https://github.com/yhatt/marp-cli-example
 ![bg 40% opacity blur](https://avatars1.githubusercontent.com/u/3993388?v=4)
 
 ### Created by Yuki Hattori ([@yhatt](https://github.com/yhatt))
-
-https://github.com/yhatt/marp-cli-example
+### Forked here ([mccright](https://github.com/mccright))
+https://github.com/mccright/marp-cli-example
