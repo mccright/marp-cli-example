@@ -29,9 +29,9 @@ https://github.com/mccright/marp-cli-example
 <!-- _backgroundColor: "#123" -->
 <!-- _color: "#fff" -->
 
-##### <!--fit--> [Marp CLI](https://github.com/marp-team/marp-cli) + [GitHub Pages](https://github.com/pages) | [Netlify](https://www.netlify.com/) | [Vercel](https://vercel.com/)
+##### <!--fit--> [Marp CLI](https://github.com/marp-team/marp-cli) + [GitHub Pages](https://github.com/pages) || [Netlify](https://www.netlify.com/) || [Vercel](https://vercel.com/)
 
-##### <!--fit--> 👉 The easiest way to host<br />your Marp deck on the web
+##### <!--fit--> 👉 The easiest way to host<br />your Marp deck on the web.<br />Experiment.  Is it right for you?
 
 ---
 
