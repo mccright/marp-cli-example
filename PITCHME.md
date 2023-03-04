@@ -71,6 +71,6 @@ https://github.com/mccright/marp-cli-example
 ---
 
 #### Created by Yuki Hattori  
-<!--fit--> ([https://github.com/yhatt/marp-cli-example](https://github.com/yhatt/marp-cli-example) and [@yhatt](https://github.com/yhatt))  
+<!--fit--> https://github.com/yhatt/marp-cli-example and [@yhatt](https://github.com/yhatt))  
 #### Forked here ([mccright](https://github.com/mccright))  
-<!--fit--> [https://github.com/mccright/marp-cli-example](https://github.com/mccright/marp-cli-example)  
+<!--fit--> https://github.com/mccright/marp-cli-example  
