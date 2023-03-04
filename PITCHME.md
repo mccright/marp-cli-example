@@ -69,8 +69,6 @@ https://github.com/mccright/marp-cli-example
 
 ---
 
-![bg 40% opacity blur](https://avatars1.githubusercontent.com/u/3993388?v=4)
-
 ### Created by Yuki Hattori ([@yhatt](https://github.com/yhatt))
 ### Forked here ([mccright](https://github.com/mccright))
 https://github.com/mccright/marp-cli-example
