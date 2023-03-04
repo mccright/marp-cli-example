@@ -22,7 +22,8 @@ https://github.com/mccright/marp-cli-example
 
 ---
 
-![Marp bg 60%](https://raw.githubusercontent.com/marp-team/marp/master/marp.png)
+![Marp bg 60%](https://raw.githubusercontent.com/marp-team/marp/master/marp.png)  
+[https://marp.app/](https://marp.app/)  
 
 ---
 
@@ -61,14 +62,15 @@ https://github.com/mccright/marp-cli-example
 
 #### Ready to write & host your deck!
 
-[![Deploy to Vercel h:1.5em](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/mccright/marp-cli-example)
+[![Deploy to Vercel h:1.5em](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/yhatt/marp-cli-example)  
 
 ---
 
-### <!--fit--> :ok_hand:
+### <!--fit--> :ok_hand: [https://mccright.github.io/marp-cli-example/](https://mccright.github.io/marp-cli-example/)  
 
 ---
 
-### Created by Yuki Hattori ([@yhatt](https://github.com/yhatt))
-### Forked here ([mccright](https://github.com/mccright))
-https://github.com/mccright/marp-cli-example
+#### Created by Yuki Hattori  
+([https://github.com/yhatt/marp-cli-example](https://github.com/yhatt/marp-cli-example) and [@yhatt](https://github.com/yhatt))  
+#### Forked here ([mccright](https://github.com/mccright))  
+https://github.com/mccright/marp-cli-example  
