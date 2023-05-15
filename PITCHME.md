@@ -1,6 +1,6 @@
 ---
 marp: true
-title: Marp CLI example
+title: Marp CLI example: McCright Experiments
 description: Hosting Marp slide deck on the web
 theme: uncover
 transition: fade
@@ -15,6 +15,8 @@ _paginate: false
 Hosting Marp slide deck on the web
 
 https://github.com/mccright/marp-cli-example
+Deployed at: 
+https://mccright.github.io/marp-cli-example
 
 <style scoped>a { color: #26c; }</style>
 
