@@ -59,7 +59,7 @@ try:
     ipaddress = input("ip address: ")
     url = "https://ipinfo.io/{}".format(ipaddress)
     response = requests.get(url)
-    jsonstr = decode_json(response.text)
+    jsonstr = json.loads(response.text)
     print("Hostname\t: {}".format(jsonstr['hostname']))
     print("City\t\t: {}".format(jsonstr['city']))
     print("Country\t\t: {}".format(jsonstr['country']))
