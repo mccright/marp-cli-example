@@ -48,6 +48,26 @@ https://mccright.github.io/marp-cli-example
 [![Use this as template h:1.5em](https://img.shields.io/badge/-Use%20this%20as%20template-brightgreen?style=for-the-badge&logo=github)](https://github.com/yhatt/marp-cli-example/generate)
 
 ---
+#### Sample source code experiment:  
+```python
+#!/usr/bin/env python3
+import os
+import sys
+import json
+import requests
+try:
+    ipaddress = input("ip address: ")
+    url = "https://ipinfo.io/{}".format(ipaddress)
+    response = requests.get(url)
+    jsonstr = decode_json(response.text)
+    print("Hostname\t: {}".format(jsonstr['hostname']))
+    print("City\t\t: {}".format(jsonstr['city']))
+    print("Country\t\t: {}".format(jsonstr['country']))
+    print("Location\t: {}".format(jsonstr['loc']))
+except Exception as e:
+    print("Failed this run. Error: {} -- {}".format(e, (sys.exc_info())))
+```
+---
 <!-- 
 ![bg right 60%](https://icongr.am/simple/netlify.svg?colored)
 
