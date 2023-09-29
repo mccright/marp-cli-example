@@ -8,7 +8,7 @@ paginate: true
 _paginate: false
 ---
 
-# ![bg opacity](./assets/gradient.jpg)
+<!-- # ![bg opacity](./assets/gradient.jpg) -->
 
 <!-- <!--fit--> Marp CLI example -->
 
@@ -18,7 +18,7 @@ https://github.com/mccright/marp-cli-example
 Deployed at: 
 https://mccright.github.io/marp-cli-example
 
-<style scoped>a { color: #26c; }</style>
+<!-- <style scoped>a { color: #26c; }</style> -->
 
 <!-- This is presenter note. You can write down notes through HTML comment. -->
 
@@ -48,7 +48,7 @@ https://mccright.github.io/marp-cli-example
 [![Use this as template h:1.5em](https://img.shields.io/badge/-Use%20this%20as%20template-brightgreen?style=for-the-badge&logo=github)](https://github.com/yhatt/marp-cli-example/generate)
 
 ---
-
+<!-- 
 ![bg right 60%](https://icongr.am/simple/netlify.svg?colored)
 
 ## **[Netlify](https://www.netlify.com/)**
@@ -66,10 +66,10 @@ https://mccright.github.io/marp-cli-example
 #### Ready to write & host your deck!
 
 [![Deploy to Vercel h:1.5em](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/yhatt/marp-cli-example)  
-
+--> 
 ---
 
-### <!--fit--> :ok_hand: [https://mccright.github.io/marp-cli-example/](https://mccright.github.io/marp-cli-example/)  
+### <!--fit--> [https://mccright.github.io/marp-cli-example/](https://mccright.github.io/marp-cli-example/)  
 
 ---
 
