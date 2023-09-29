@@ -1,18 +1,18 @@
 ---
 marp: true
 title: Marp CLI example -- McCright Experiments
-description: Hosting Marp slide deck on the web
+description: Hosting a Marp slide deck on the web
 theme: uncover
-transition: fade
+transition: cover
 paginate: true
 _paginate: false
 ---
 
-![bg opacity](./assets/gradient.jpg)
+# ![bg opacity](./assets/gradient.jpg)
 
-# <!--fit--> Marp CLI example
+<!-- <!--fit--> Marp CLI example -->
 
-Hosting Marp slide deck on the web
+Hosting a copy of Marp slide deck on the web
 
 https://github.com/mccright/marp-cli-example
 Deployed at: 
@@ -24,7 +24,8 @@ https://mccright.github.io/marp-cli-example
 
 ---
 
-![Marp bg 60%](https://raw.githubusercontent.com/marp-team/marp/master/marp.png)  
+<!-- ![Marp bg 60%](https://raw.githubusercontent.com/marp-team/marp/master/marp.png) -->  
+## Check out the Marp App at:  
 [https://marp.app/](https://marp.app/)  
 
 ---
@@ -32,7 +33,7 @@ https://mccright.github.io/marp-cli-example
 <!-- _backgroundColor: "#123" -->
 <!-- _color: "#fff" -->
 
-##### <!--fit--> [Marp CLI](https://github.com/marp-team/marp-cli) + [GitHub Pages](https://github.com/pages) || [Netlify](https://www.netlify.com/) || [Vercel](https://vercel.com/)
+##### <!--fit--> [Marp CLI](https://github.com/marp-team/marp-cli) || [Marp for VS Code](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode) + [GitHub Pages](https://github.com/pages)  
 
 ##### <!--fit--> 👉 The easiest way to host<br />your Marp deck on the web.<br />Experiment.  Is it right for you?
 
@@ -72,7 +73,7 @@ https://mccright.github.io/marp-cli-example
 
 ---
 
-#### Created by Yuki Hattori  
+#### marp-cli created by Yuki Hattori  
 <!--fit--> https://github.com/yhatt/marp-cli-example and [@yhatt](https://github.com/yhatt))  
 #### Forked here ([mccright](https://github.com/mccright))  
 <!--fit--> https://github.com/mccright/marp-cli-example  
