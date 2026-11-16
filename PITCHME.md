@@ -3,10 +3,15 @@ marp: true
 title: Marp CLI example -- McCright Experiments
 description: Hosting a Marp slide deck on the web
 theme: uncover
-transition: fade-out
+transition: fade
 paginate: true
 _paginate: false
 ---
+<!-- 
+# theme: uncover
+# transition: cover 
+-->
+
 
 <!-- # ![bg opacity](./assets/gradient.jpg) -->
 
